@@ -1,0 +1,8 @@
+{
+  "name": "codex",
+  "version": "0.1.0",
+  "description": "Lets Claude hand tasks to Codex (gpt-6.1-sol)",
+  "author": {
+    "name": "Arjun Kamboj"
+  }
+}

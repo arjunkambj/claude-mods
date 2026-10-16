@@ -1,0 +1,29 @@
+{
+  "name": "arjun-mods",
+  "description": "Arjun's Claude Code mods: Codex, images, a dev server limit and a done chime",
+  "owner": {
+    "name": "Arjun Kamboj"
+  },
+  "plugins": [
+    {
+      "name": "codex",
+      "source": "./codex",
+      "description": "Lets Claude hand tasks to Codex (gpt-6.1-sol)"
+    },
+    {
+      "name": "imagegen",
+      "source": "./imagegen",
+      "description": "Lets Claude make and edit images through Codex, and shows them in the chat when done"
+    },
+    {
+      "name": "devserver-limit",
+      "source": "./devserver-limit",
+      "description": "Stops a third dev server from starting"
+    },
+    {
+      "name": "done-sound",
+      "source": "./done-sound",
+      "description": "Plays a chime when a long task finishes"
+    }
+  ]
+}

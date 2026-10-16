@@ -1,0 +1,9 @@
+{
+  "name": "imagegen",
+  "version": "0.1.0",
+  "description": "Lets Claude make and edit images through Codex, and shows them in the chat when done",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Arjun Kamboj"
+  }
+}

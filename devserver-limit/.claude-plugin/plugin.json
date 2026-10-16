@@ -1,0 +1,8 @@
+{
+  "name": "devserver-limit",
+  "version": "0.1.0",
+  "description": "Stops a third dev server from starting",
+  "author": {
+    "name": "Arjun Kamboj"
+  }
+}
